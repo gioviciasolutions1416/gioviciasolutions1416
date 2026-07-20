@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%"/>
 
-[![Website](https://img.shields.io/badge/Sitio_Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2BD9FE)](https://www.isavane.site/)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2BD9FE)](https://www.isavane.site/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=2BD9FE)](https://wa.me/525643316455?text=Hola%20Victor,%20quiero%20hablar%20sobre%20un%20proyecto)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2BD9FE)](mailto:giovic.ia.solutions@gmail.com)
 
@@ -10,11 +10,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
-### 🧭 Sobre mí
+# 🧭 Sobre mí
 
-Ayudo a negocios a dejar de perder tiempo en tareas repetitivas y a tener una presencia digital que sí funciona. Mi trabajo se concentra en tres frentes: **automatizar procesos con n8n e IA**, **diseñar páginas web enfocadas en conversión**, y **construir aplicaciones SaaS a medida** — desde el flujo de datos en el backend hasta la interfaz del usuario final.
+Ayudo a empresas y startups a **escalar sus operaciones, reducir costos y eliminar cuellos de botella** mediante el diseño de soluciones tecnológicas inteligentes y automatizaciones de alto impacto.
 
-Opero bajo **Giovic IA Solutions**, mi marca de consultoría en automatización e IA aplicada.
+Mi enfoque va más allá del código: me concentro en el **impacto financiero y operativo** de cada desarrollo.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
+
+### 🚀 ¿Cómo puedo aportar a tu negocio?
+
+*   **🤖 Operaciones 24/7 e Integración de IA:** Automatización de flujos de trabajo e integración de agentes de Inteligencia Artificial para atención a clientes, procesamiento de leads y gestión autónoma de datos.
+*   **⚡ Infraestructura Escalable & SaaS:** Arquitectura técnica, bases de datos y plataformas SaaS a la medida, diseñadas para soportar el crecimiento continuo con alta disponibilidad y seguridad.
+*   **📈 Canales Digitales de Alta Conversión:** Ecosistemas web y plataformas interactivas optimizadas para convertir visitantes en clientes, alineando la tecnología con los objetivos de ventas.
+*   **💼 Control y Continuidad Operativa:** Centralización e integración de datos operativos (ERPs, finanzas, soporte) para asegurar la trazabilidad del negocio y una infraestructura resiliente.
+
+> Opero bajo **Giovic IA Solutions**, transformando la complejidad técnica en rentabilidad y tranquilidad operativa.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
@@ -26,32 +37,23 @@ Opero bajo **Giovic IA Solutions**, mi marca de consultoría en automatización 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
-### 🛠️ Stack y Competencias Técnicas
+### 🛠️ Stack Tecnológico & Herramientas
 
-**IA, Automatización e Integración**
-*   ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=2BD9FE)
-*   ![Make](https://img.shields.io/badge/Make-0D1117?style=for-the-badge&logo=make&logoColor=2BD9FE)
-*   ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=googlegemini&logoColor=2BD9FE)
-*   ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logoColor=2BD9FE)
-*   ![AI Agents](https://img.shields.io/badge/Agentes_de_IA-0D1117?style=for-the-badge&logo=openai&logoColor=2BD9FE)
+`Python` • `n8n` • `Make` • `Docker` • `Supabase` • `PostgreSQL` • `TypeScript` • `Next.js` • `React` • `Tailwind CSS` • `REST APIs` • `AI Agents` • `Microsoft 365`
 
-**Frontend, Arquitectura y Desarrollo**
-*   ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=2BD9FE)
-*   ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2BD9FE)
-*   ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2BD9FE)
-*   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=2BD9FE)
-*   ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=2BD9FE)
-*   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2BD9FE)
+<div align="center" style="margin-top: 15px;">
 
-**Infraestructura TI, DevOps y Gestión**
-*   ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2BD9FE)
-*   ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=2BD9FE)
-*   ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0D1117?style=for-the-badge&logo=microsoft&logoColor=2BD9FE)
-*   ![Active Directory](https://img.shields.io/badge/Active_Directory-0D1117?style=for-the-badge&logo=windows&logoColor=2BD9FE)
-*   ![Redes](https://img.shields.io/badge/Redes_y_Conectividad-0D1117?style=for-the-badge&logo=cisco&logoColor=2BD9FE)
-*   ![ITIL Standard](https://img.shields.io/badge/ITIL_Standard-0D1117?style=for-the-badge&logoColor=2BD9FE)
-*   ![BPM](https://img.shields.io/badge/BPM_Optimization-0D1117?style=for-the-badge&logo=processwire&logoColor=2BD9FE)
-*   ![ERPs y Aspel](https://img.shields.io/badge/ERPs_&_Aspel-0D1117?style=for-the-badge&logo=sap&logoColor=2BD9FE)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=2BD9FE)
+![Make](https://img.shields.io/badge/Make-0D1117?style=for-the-badge&logo=make&logoColor=2BD9FE)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=googlegemini&logoColor=2BD9FE)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=2BD9FE)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2BD9FE)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=2BD9FE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2BD9FE)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2BD9FE)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0D1117?style=for-the-badge&logo=microsoft&logoColor=2BD9FE)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
@@ -76,22 +78,13 @@ Opero bajo **Giovic IA Solutions**, mi marca de consultoría en automatización 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
-### 🔄 Cómo trabajo
+### 📬 Conectemos
 
 <div align="center">
 
-**Diagnóstico** ➡️ **Demo** ➡️ **Estrategia** ➡️ **Delivery**
-
-*Análisis de cuellos de botella ➡️ Prototipo rápido para validar ➡️ Arquitectura y presupuesto ➡️ Despliegue y optimización*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
-
-<div align="center">
-
-### 📡 ¿Tienes un proceso manual que te quita tiempo? Hablemos.
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Directo-2BD9FE?style=for-the-badge&logo=whatsapp&logoColor=0D1117)](https://wa.me/525643316455?text=Hola%20Victor,%20quiero%20escalar%20mi%20negocio%20con%20IA)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2BD9FE)](https://www.isavane.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2BD9FE)](https://www.linkedin.com/in/TU-PERFIL/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=2BD9FE)](https://wa.me/525643316455?text=Hola%20Victor,%20quiero%20hablar%20sobre%20un%20proyecto)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2BD9FE)](mailto:giovic.ia.solutions@gmail.com)
 
 </div>
