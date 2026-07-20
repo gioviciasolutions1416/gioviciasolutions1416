@@ -59,20 +59,30 @@ Mi enfoque va más allá del código: me concentro en el **impacto financiero y 
 ### 🛠️ Stack Tecnológico & Herramientas
 
 <p align="center">
-  <a href="https://n8n.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://make.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/make" alt="Make" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" alt="Python" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" alt="Docker" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="React" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" alt="Git" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="42" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoft" alt="Microsoft" width="42" height="42" /></a>
+  <!-- IA & Automatización -->
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />&nbsp;
+  <img src="https://img.shields.io/badge/Make-4A90E2?style=flat-square&logo=make&logoColor=white" alt="Make" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google AI Studio" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p align="center">
+  <!-- Desarrollo & Bases de Datos -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <!-- Infraestructura & Herramientas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
