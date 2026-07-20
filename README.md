@@ -1,11 +1,10 @@
 <div align="center">
 
-# ⚡ VICTOR FUENTES
-### Digital Solutions Architect & AI Automation Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=VICTOR%20FUENTES&textColor=2BD9FE&fontSize=48&animation=twinkle" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=2BD9FE&center=true&vCenter=true&width=600&height=50&lines=Automatizaci%C3%B3n+de+Procesos+con+IA;Desarrollo+SaaS+a+Medida;Canales+Digitales+de+Alta+Conversi%C3%B3n;Giovic+IA+Solutions" alt="Typing SVG" />
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2BD9FE&center=true&width=600&lines=Digital+Solutions+Architect;AI+Automation+Engineer;Giovic+IA+Solutions" alt="Typing SVG" />
+</p>
 
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2BD9FE)](https://www.isavane.site/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=2BD9FE)](https://wa.me/525643316455?text=Hola%20Victor,%20quiero%20hablar%20sobre%20un%20proyecto)
