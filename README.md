@@ -18,6 +18,17 @@ Mi enfoque va más allá del código: me concentro en el **impacto financiero y 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
+### 🚀 ¿Cómo puedo aportar a tu negocio?
+
+*   **🤖 Operaciones 24/7 e Integración de IA:** Automatización de flujos de trabajo e integración de agentes de Inteligencia Artificial para atención a clientes, procesamiento de leads y gestión autónoma de datos.
+*   **⚡ Infraestructura Escalable & SaaS:** Arquitectura técnica, bases de datos y plataformas SaaS a la medida, diseñadas para soportar el crecimiento continuo con alta disponibilidad y seguridad.
+*   **📈 Canales Digitales de Alta Conversión:** Ecosistemas web y plataformas interactivas optimizadas para convertir visitantes en clientes, alinear la tecnología con los objetivos de ventas.
+*   **💼 Control y Continuidad Operativa:** Centralización e integración de datos operativos (ERPs, finanzas, soporte) para asegurar la trazabilidad del negocio y una infraestructura resiliente.
+
+> Opero bajo **Giovic IA Solutions**, transformando la complejidad técnica en rentabilidad y tranquilidad operativa.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
+
 ### 💼 ¿Qué hago por tu negocio?
 
 <table align="center" width="100%">
@@ -48,31 +59,48 @@ Mi enfoque va más allá del código: me concentro en el **impacto financiero y 
 ### 🛠️ Stack Tecnológico & Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=2BD9FE" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make-0D1117?style=for-the-badge&logo=make&logoColor=2BD9FE" alt="Make" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2BD9FE" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2BD9FE" alt="Docker" />
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=2BD9FE" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2BD9FE" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2BD9FE" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=2BD9FE" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2BD9FE" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=2BD9FE" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Microsoft_365-0D1117?style=for-the-badge&logo=microsoft&logoColor=2BD9FE" alt="Microsoft 365" />
+  <a href="https://n8n.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://make.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/make" alt="Make" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" alt="Python" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" alt="Docker" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="React" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" alt="Git" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoft" alt="Microsoft" width="42" height="42" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
-### 📊 GitHub Analytics
+### 🎓 Formación & Certificaciones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gioviciasolutions1416&show_icons=true&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=2BD9FE&icon_color=2BD9FE&text_color=FFFFFF" alt="Estadísticas de GitHub de Victor" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioviciasolutions1416&layout=compact&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=2BD9FE&icon_color=2BD9FE&text_color=FFFFFF" alt="Lenguajes más usados por Victor" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gioviciasolutions1416&theme=react-dark&hide_border=true&background=0D1117&ring=2BD9FE&fire=FF6C37&currStreakNum=2BD9FE" alt="Racha de contribuciones de Victor" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🤖 Especialización en IA & Automatización</h4>
+      <ul>
+        <li><strong>Workflows Profesionales:</strong> Automatizaciones avanzadas y flujos de trabajo con n8n.</li>
+        <li><strong>Vibe Coding:</strong> Desarrollo ágil de herramientas utilizando Inteligencia Artificial.</li>
+        <li><strong>Google AI Studio:</strong> Creación e integración de LLMs para apps personalizadas.</li>
+      </ul>
+      <em>Platzi, 2026</em>
+    </td>
+    <td valign="top" width="50%">
+      <h4>⚙️ Ingeniería de Software & DevOps</h4>
+      <ul>
+        <li><strong>Docker:</strong> Fundamentos y uso avanzado de contenedores.</li>
+        <li><strong>Git & GitHub:</strong> Control de versiones y flujos colaborativos en equipo.</li>
+        <li><strong>Comunicación Digital:</strong> Gestión de Slack y herramientas corporativas.</li>
+      </ul>
+      <em>Platzi, 2026</em>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2BD9FE&height=3" width="100%"/>
 
