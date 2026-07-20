@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=VICTOR%20FUENTES&theme=tokyonight&fontSize=45" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2BD9FE&center=true&width=600&lines=Digital+Solutions+Architect;AI+Automation+Engineer;Giovic+IA+Solutions" alt="Typing SVG" />
+</p>
 
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2BD9FE)](https://www.isavane.site/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=2BD9FE)](https://wa.me/525643316455?text=Hola%20Victor,%20quiero%20hablar%20sobre%20un%20proyecto)
