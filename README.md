@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=VICTOR%20FUENTES&theme=tokyonight&fontSize=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1b263b&height=260&section=header&text=VICTOR%20FUENTES&textColor=2BD9FE&fontSize=50&animation=twinkle" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2BD9FE&center=true&width=600&lines=Digital+Solutions+Architect;AI+Automation+Engineer;Giovic+IA+Solutions" alt="Typing SVG" />
